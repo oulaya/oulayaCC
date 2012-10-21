@@ -10,9 +10,8 @@ public class FileParser {
 
 	/**
 	 * @param args
+	 * @author oulaya
 	 */
-	//test
-	//lllll
 	public void parse(File file, IContentHandler handler){
 		
 		try{
