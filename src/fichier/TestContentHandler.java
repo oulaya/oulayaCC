@@ -15,7 +15,7 @@ public class TestContentHandler  implements IContentHandler{
 	}
 	
 
-	
+	// implémentation de contentHandler qui affiche le nombre de ligne
 	@Override
 	public void defaultLine(String content) {
 		//System.out.println("nouvelle ligne : " + content);
