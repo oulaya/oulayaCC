@@ -11,7 +11,7 @@ public class FileParser {
 	/**
 	 * @param args
 	 */
-	
+	//test
 	public void parse(File file, IContentHandler handler){
 		
 		try{
